@@ -4,7 +4,7 @@
 
 ## 🔨 Tools
 
-![](https://img.shields.io/badge/StockAnalysis-v1.0-brightgreen?style=flat-square) ![](https://img.shields.io/badge/Python-v3.8-blue?logo=python&logoColor=white) ![](https://img.shields.io/pypi/v/PyMySQL?color=blue&label=PyMySQL&logo=python&logoColor=white&style=flat-square)![](https://img.shields.io/pypi/v/xlwt?color=blue&label=xlwt&logo=python&logoColor=white&style=flat-square)![](https://img.shields.io/pypi/v/xlrd?color=blue&label=xlrd&logo=python&logoColor=white&style=flat-square)![](https://img.shields.io/pypi/v/beautifulsoup4?color=blue&label=bs4&logo=python&logoColor=white&style=flat-square)![](https://img.shields.io/pypi/v/requests?color=blue&label=requests&logo=python&logoColor=white&style=flat-square)
+![](https://img.shields.io/badge/StockAnalysis-v1.0-brightgreen?style=flat-square) ![](https://img.shields.io/badge/Python-v3.8-blue?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/pypi/v/PyMySQL?color=blue&label=PyMySQL&logo=python&logoColor=white&style=flat-square)![](https://img.shields.io/pypi/v/xlwt?color=blue&label=xlwt&logo=python&logoColor=white&style=flat-square)![](https://img.shields.io/pypi/v/xlrd?color=blue&label=xlrd&logo=python&logoColor=white&style=flat-square)![](https://img.shields.io/pypi/v/beautifulsoup4?color=blue&label=bs4&logo=python&logoColor=white&style=flat-square)![](https://img.shields.io/pypi/v/requests?color=blue&label=requests&logo=python&logoColor=white&style=flat-square)
 
 
 
