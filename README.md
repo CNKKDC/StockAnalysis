@@ -8,7 +8,7 @@
 
 
 
-![Twitter URL](https://img.shields.io/twitter/url?color=blue&label=Twitter&logo=twitter&logoColor=white&style=flat-square&url=https%3A%2F%2Ftwitter.com%2FMr_LiuYC) ![GitHub watchers](https://img.shields.io/github/watchers/LegendLiuYC/StockAnalysis?style=flat-square) ![GitHub forks](https://img.shields.io/github/forks/LegendLiuYC/StockAnalysis?style=flat-square)
+![Twitter URL](https://img.shields.io/twitter/url?color=informational&label=Twitter&logo=twitter&logoColor=white&style=flat-square&url=https%3A%2F%2Ftwitter.com%2FMr_LiuYC) ![GitHub watchers](https://img.shields.io/github/watchers/LegendLiuYC/StockAnalysis?style=flat-square&logo=github&logoColor=white) ![GitHub forks](https://img.shields.io/github/forks/LegendLiuYC/StockAnalysis?style=flat-square&logo=github&logoColor=white)
 
 
 
