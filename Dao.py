@@ -4,7 +4,7 @@ class Dao:
 
     URL = "127.0.0.1"
     USERNAME = "root"
-    PASSWORD = "liu21436587"
+    PASSWORD = "XXXXXXXXXX"
     DATABASE = "fund"
 
     def __init__(self):
